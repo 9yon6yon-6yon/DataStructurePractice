@@ -57,7 +57,5 @@ public class Main {
         } else System.out.println("Value " + lv + " not available in the tree.");
         System.out.print("\nEnter Values to print if they are Siblings : ");
         System.out.println(tree.areSibling(sc.nextInt(), sc.nextInt()));
-
-//commit
     }
 }
