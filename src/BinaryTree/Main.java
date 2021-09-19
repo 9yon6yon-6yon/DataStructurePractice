@@ -5,14 +5,22 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Tree tree = new Tree();
-        tree.insert(3);
-        tree.insert(6);
-        tree.insert(5);
-        tree.insert(11);
-        tree.insert(9);
-        tree.insert(1);
-        tree.insert(4);
-        tree.insert(3);
+        tree.insert(10);
+        tree.insert(21);
+        tree.insert(20);
+        tree.insert(13);
+        tree.insert(36);
+        tree.insert(55);
+        tree.insert(38);
+        tree.insert(28);
+        tree.insert(62);
+        tree.insert(73);
+        tree.insert(70);
+        tree.insert(63);
+        tree.insert(61);
+        tree.insert(95);
+        tree.insert(92);
+
         //                    3
         //             1              6
         //                       5           11
