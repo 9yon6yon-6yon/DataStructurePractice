@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="JAVA">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedLists/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/BinaryTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/BinaryTree/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeapYear" />
       <module name="DataStructures" />
@@ -57,6 +59,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Main" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedLists.Main" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTree.Main" />
       <module name="DataStructures" />
@@ -64,19 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintPrice" />
-      <module name="DataStructures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.MEthodOverriding" />
-        <item itemvalue="Application.PrintPrice" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +118,9 @@
       <workItem from="1631421197402" duration="732000" />
       <workItem from="1631427361117" duration="656000" />
       <workItem from="1631940123609" duration="1434000" />
+      <workItem from="1632039609970" duration="178000" />
+      <workItem from="1632646205705" duration="51000" />
+      <workItem from="1634445365442" duration="3804000" />
     </task>
     <task id="LOCAL-00001" summary="JAVA">
       <created>1631421632742</created>
@@ -111,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631421803867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JAVA">
+      <created>1632039762562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632039762563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
