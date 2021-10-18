@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Stacks">
-      <change afterPath="$PROJECT_DIR$/src/Queues/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queues/Main.java" afterDir="false" />
+    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Queue">
+      <change afterPath="$PROJECT_DIR$/src/Queues/QueueWithStacks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queues/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <workItem from="1632039609970" duration="178000" />
       <workItem from="1632646205705" duration="51000" />
       <workItem from="1634445365442" duration="11974000" />
-      <workItem from="1634536723800" duration="1443000" />
+      <workItem from="1634536723800" duration="2373000" />
     </task>
     <task id="LOCAL-00001" summary="JAVA">
       <created>1631421632742</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634476638323</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Queue">
+      <created>1634538289437</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634538289437</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +226,8 @@
     <MESSAGE value="Array,LinkedList" />
     <MESSAGE value="LinkedList" />
     <MESSAGE value="Stacks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stacks" />
+    <MESSAGE value="Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -232,6 +240,11 @@
           <url>file://$PROJECT_DIR$/src/LinkedLists/LinkedList.java</url>
           <line>19</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Queues/ArrayQueue.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

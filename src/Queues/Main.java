@@ -24,11 +24,17 @@ public class Main {
 //        while(!stack.isEmpty())
 //            q.add(stack.pop());
 //
-        ArrayQueue aq = new ArrayQueue(5);
-        aq.enqueue(10);
-        aq.enqueue(20);
-        aq.enqueue(30);
-        System.out.println(aq.dequeue());
-        System.out.println(aq);
+//        ArrayQueue aq = new ArrayQueue(5);
+//        aq.enqueue(10);
+//        aq.enqueue(20);
+//        aq.enqueue(30);
+//        System.out.println(aq.dequeue());
+//        System.out.println(aq);
+        QueueWithStacks queueWithStacks = new QueueWithStacks();
+        queueWithStacks.enqueue(10);
+        queueWithStacks.enqueue(20);
+        queueWithStacks.enqueue(30);
+        queueWithStacks.enqueue(40);
+
     }
 }
