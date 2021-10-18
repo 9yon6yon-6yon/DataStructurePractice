@@ -30,11 +30,28 @@ public class Main {
 //        aq.enqueue(30);
 //        System.out.println(aq.dequeue());
 //        System.out.println(aq);
-        QueueWithStacks queueWithStacks = new QueueWithStacks();
-        queueWithStacks.enqueue(10);
-        queueWithStacks.enqueue(20);
-        queueWithStacks.enqueue(30);
-        queueWithStacks.enqueue(40);
-
+//        QueueWithStacks queueWithStacks = new QueueWithStacks();
+//        queueWithStacks.enqueue(10);
+//        queueWithStacks.enqueue(20);
+//        queueWithStacks.enqueue(30);
+//        queueWithStacks.enqueue(40);
+    //priority queue
+//        PriorityQueue<Integer> q = new PriorityQueue<>();
+//        q.add(5);
+//        q.add(1);
+//        q.add(4);
+//        q.add(2);
+//        System.out.println(q);
+//        while(!q.isEmpty())
+//            System.out.println(q.remove());
+        //priority queue from scratch
+        PriorityQueue q = new PriorityQueue();
+        q.add(5);
+        q.add(1);
+        q.add(3);
+        System.out.println(q);
+        while(!q.isEmpty()){
+            System.out.println(q.remove());
+        }
     }
 }

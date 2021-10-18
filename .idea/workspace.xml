@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Queue">
-      <change afterPath="$PROJECT_DIR$/src/Queues/QueueWithStacks.java" afterDir="false" />
+    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Queue using two stacks">
+      <change afterPath="$PROJECT_DIR$/src/Queues/PriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Queues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queues/Main.java" afterDir="false" />
     </list>
@@ -133,7 +133,7 @@
       <workItem from="1632039609970" duration="178000" />
       <workItem from="1632646205705" duration="51000" />
       <workItem from="1634445365442" duration="11974000" />
-      <workItem from="1634536723800" duration="2373000" />
+      <workItem from="1634536723800" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="JAVA">
       <created>1631421632742</created>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634538289437</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Queue using two stacks">
+      <created>1634539390577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634539390577</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +234,8 @@
     <MESSAGE value="LinkedList" />
     <MESSAGE value="Stacks" />
     <MESSAGE value="Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue" />
+    <MESSAGE value="Queue using two stacks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue using two stacks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
