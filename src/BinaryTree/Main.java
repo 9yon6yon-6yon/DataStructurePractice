@@ -1,5 +1,5 @@
 package BinaryTree;
-
+//binary trees
 import java.util.Scanner;
 
 public class Main {

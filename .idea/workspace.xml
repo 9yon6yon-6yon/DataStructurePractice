@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Priority Queue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists/Main.java" afterDir="false" />
+    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Linked lista">
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634540396080</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Linked lista">
+      <created>1634640975725</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634640975725</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +249,8 @@
     <MESSAGE value="Queue" />
     <MESSAGE value="Queue using two stacks" />
     <MESSAGE value="Priority Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Priority Queue" />
+    <MESSAGE value="Linked lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked lista" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
