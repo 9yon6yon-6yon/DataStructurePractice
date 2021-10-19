@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Linked lista">
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree/Main.java" afterDir="false" />
+    <list default="true" id="f06407a5-fa0b-427b-9966-61fd7bcd3637" name="Changes" comment="Binary Tree">
+      <change beforePath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedLists/LinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634640975725</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Binary Tree">
+      <created>1634641029152</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634641029152</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +257,8 @@
     <MESSAGE value="Queue using two stacks" />
     <MESSAGE value="Priority Queue" />
     <MESSAGE value="Linked lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linked lista" />
+    <MESSAGE value="Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

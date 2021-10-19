@@ -1,5 +1,5 @@
 package LinkedLists;
-
+//linked lists
 import java.util.NoSuchElementException;
 
 public class LinkedList {
